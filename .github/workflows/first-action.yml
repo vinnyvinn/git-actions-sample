@@ -8,6 +8,6 @@ jobs:
   steps:
    - name: Print Greeting Text
     run: echo Hello World there
-  - name:Print Good Bye
+  - name: Print Good Bye
     run: echo Good bye fella!
   
